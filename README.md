@@ -7,7 +7,7 @@ This repository serves as a showcase for automation practices utilizing the Auto
 In this repository, you will find:
 
 - Automation scripts and test cases for different workflows in AutomationExercise.
-- Examples of common automation practices, such as login testing, product navigation, and order checkout. DISCLAIMER! Login with an existing user has not been included, the page does not allow it and doesn't provide a predetermined one for testing purposes.
+- Examples of common automation practices, such as login testing, product navigation, and order checkout. DISCLAIMER! Login with an existing user has not been included, the page does not allow it, and doesn't provide a predetermined one for testing purposes.
 
 ## Contributions
 
