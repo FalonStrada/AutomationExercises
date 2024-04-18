@@ -32,6 +32,7 @@ await page.getByRole('link', { name: 'Continue' }).click();
 
 await page.getByRole('link', { name: 'Delete Account' }).click();
 await expect(page.getByText('ACCOUNT DELETED!')).toBeVisible();
+await page.getByRole('link', { name: 'Continue' }).click();
 
 
 
